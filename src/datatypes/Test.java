@@ -1,2 +1,4 @@
-package datatypes;public class detyra1 {
+package datatypes;
+
+public class Test {
 }
