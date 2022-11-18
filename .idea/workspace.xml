@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e58db3b-63c2-47e4-a04f-eaa6c9ba4164" name="Changes" comment="">
+    <list default="true" id="7e58db3b-63c2-47e4-a04f-eaa6c9ba4164" name="Changes" comment="added files">
+      <change afterPath="$PROJECT_DIR$/src/datatypes/ushtrime/BadScannerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datatypes/ushtrime/Detyra1Slide3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datatypes/ushtrime/PrintExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datatypes/ushtrime/ScannerDataTypesExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datatypes/BasicDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/BasicDataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datatypes/ConstantsExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/ConstantsExamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datatypes/Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/Scope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datatypes/ScopeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/ScopeExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datatypes/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datatypes/ushtrime/DetyreKlase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/ushtrime/DetyreKlase1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datatypes/ushtrime/DetyreKlase2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/ushtrime/DetyreKlase2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datatypes/ushtrime/ScannerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/ushtrime/ScannerExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,23 +32,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Development/Learning/cacttus/grupi-1-java-basic&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "C:/Development/Learning/cacttus/grupi-2-hyrje-ne-programim-master",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
-  <component name="RunManager" selected="Application.ScannerExample">
-    <configuration name="BasicDataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.BasicDataTypes" />
+}]]></component>
+  <component name="RunManager" selected="Application.Detyra1Slide3">
+    <configuration name="BadScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrime.BadScannerExample" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatypes.*" />
+          <option name="PATTERN" value="datatypes.ushtrime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +57,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstantsExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.ConstantsExamples" />
+    <configuration name="Detyra1Slide3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrime.Detyra1Slide3" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatypes.*" />
+          <option name="PATTERN" value="datatypes.ushtrime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrime.PrintExamples" />
+      <module name="Gr2-HyrjeNeProgramim" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datatypes.ushtrime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerDataTypesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrime.ScannerDataTypesExample" />
+      <module name="Gr2-HyrjeNeProgramim" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datatypes.ushtrime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,9 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Detyra1Slide3" />
+        <item itemvalue="Application.PrintExamples" />
+        <item itemvalue="Application.BadScannerExample" />
+        <item itemvalue="Application.ScannerDataTypesExample" />
         <item itemvalue="Application.ScannerExample" />
-        <item itemvalue="Application.ConstantsExamples" />
-        <item itemvalue="Application.BasicDataTypes" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +131,16 @@
       <workItem from="1668183531925" duration="5559000" />
       <workItem from="1668449339028" duration="507000" />
       <workItem from="1668702508676" duration="4559000" />
+      <workItem from="1668788003504" duration="5373000" />
     </task>
+    <task id="LOCAL-00001" summary="added files">
+      <created>1668788088750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668788088750</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,5 +156,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added files" />
   </component>
 </project>
