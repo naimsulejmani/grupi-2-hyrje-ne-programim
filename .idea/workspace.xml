@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e58db3b-63c2-47e4-a04f-eaa6c9ba4164" name="Changes" comment="added files">
-      <change afterPath="$PROJECT_DIR$/src/datatypes/ushtrime/BadScannerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datatypes/ushtrime/Detyra1Slide3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datatypes/ushtrime/PrintExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datatypes/ushtrime/ScannerDataTypesExample.java" afterDir="false" />
+    <list default="true" id="7e58db3b-63c2-47e4-a04f-eaa6c9ba4164" name="Changes" comment="Added files">
+      <change afterPath="$PROJECT_DIR$/src/datatypes/Koha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datatypes/adhoc/LigjiNjutonit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datatypes/adhoc/SyprinaEDrejtkendeshit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datatypes/adhoc/SyprinaEKatrorit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datatypes/adhoc/SyprinaERrethit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datatypes/dorezimi_detyrave/DetyraFutboll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datatypes/dorezimi_detyrave/ErblinZukajDetyraFutboll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datatypes/dorezimi_detyrave/ViolantDetyraFutboll.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datatypes/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datatypes/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,24 +37,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "full.screen.before.presentation.mode": "false",
-    "last_opened_file_path": "C:/Development/Learning/cacttus/grupi-2-hyrje-ne-programim-master",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Development/Learning/cacttus/grupi-2-hyrje-ne-programim-master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Detyra1Slide3">
-    <configuration name="BadScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrime.BadScannerExample" />
+}</component>
+  <component name="RunManager" selected="Application.SyprinaERrethit">
+    <configuration name="Koha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatypes.Koha" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatypes.ushtrime.*" />
+          <option name="PATTERN" value="datatypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Detyra1Slide3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrime.Detyra1Slide3" />
+    <configuration name="LigjiNjutonit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatypes.adhoc.LigjiNjutonit" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatypes.ushtrime.*" />
+          <option name="PATTERN" value="datatypes.adhoc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrime.PrintExamples" />
+    <configuration name="SyprinaEDrejtkendeshit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatypes.adhoc.SyprinaEDrejtkendeshit" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatypes.ushtrime.*" />
+          <option name="PATTERN" value="datatypes.adhoc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerDataTypesExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrime.ScannerDataTypesExample" />
+    <configuration name="SyprinaEKatrorit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatypes.adhoc.SyprinaEKatrorit" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatypes.ushtrime.*" />
+          <option name="PATTERN" value="datatypes.adhoc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrime.ScannerExample" />
+    <configuration name="SyprinaERrethit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatypes.adhoc.SyprinaERrethit" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatypes.ushtrime.*" />
+          <option name="PATTERN" value="datatypes.adhoc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Detyra1Slide3" />
-        <item itemvalue="Application.PrintExamples" />
-        <item itemvalue="Application.BadScannerExample" />
-        <item itemvalue="Application.ScannerDataTypesExample" />
-        <item itemvalue="Application.ScannerExample" />
+        <item itemvalue="Application.SyprinaERrethit" />
+        <item itemvalue="Application.SyprinaEDrejtkendeshit" />
+        <item itemvalue="Application.SyprinaEKatrorit" />
+        <item itemvalue="Application.LigjiNjutonit" />
+        <item itemvalue="Application.Koha" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +136,9 @@
       <workItem from="1668183531925" duration="5559000" />
       <workItem from="1668449339028" duration="507000" />
       <workItem from="1668702508676" duration="4559000" />
-      <workItem from="1668788003504" duration="5373000" />
+      <workItem from="1668788003504" duration="5527000" />
+      <workItem from="1669054350990" duration="153000" />
+      <workItem from="1669306746521" duration="4743000" />
     </task>
     <task id="LOCAL-00001" summary="added files">
       <created>1668788088750</created>
@@ -140,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668788088750</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added files">
+      <created>1668794009128</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668794009129</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +173,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added files" />
-    <option name="LAST_COMMIT_MESSAGE" value="added files" />
+    <MESSAGE value="Added files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added files" />
   </component>
 </project>
