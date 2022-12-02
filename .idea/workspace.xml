@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e58db3b-63c2-47e4-a04f-eaa6c9ba4164" name="Changes" comment="Added files">
-      <change afterPath="$PROJECT_DIR$/src/datatypes/ushtrime/EArka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datatypes/ushtrime/Kalkulatori.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datatypes/ushtrime/Percjellja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/converts/ExplicitConverts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/converts/FloatToDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/converts/RandomInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/converts/StringToPrimitiveDataTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EArka">
+  <component name="RunManager" selected="Application.RandomInt">
     <configuration name="EArka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datatypes.ushtrime.EArka" />
       <module name="Gr2-HyrjeNeProgramim" />
@@ -56,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kalkulatori" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrime.Kalkulatori" />
+    <configuration name="ExplicitConverts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="converts.ExplicitConverts" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatypes.ushtrime.*" />
+          <option name="PATTERN" value="converts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Percjellja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.ushtrime.Percjellja" />
+    <configuration name="FloatToDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="converts.FloatToDouble" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatypes.ushtrime.*" />
+          <option name="PATTERN" value="converts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SyprinaEDrejtkendeshit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.adhoc.SyprinaEDrejtkendeshit" />
+    <configuration name="RandomInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="converts.RandomInt" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatypes.adhoc.*" />
+          <option name="PATTERN" value="converts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SyprinaERrethit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatypes.adhoc.SyprinaERrethit" />
+    <configuration name="StringToPrimitiveDataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="converts.StringToPrimitiveDataTypes" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatypes.adhoc.*" />
+          <option name="PATTERN" value="converts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomInt" />
+        <item itemvalue="Application.StringToPrimitiveDataTypes" />
+        <item itemvalue="Application.ExplicitConverts" />
+        <item itemvalue="Application.FloatToDouble" />
         <item itemvalue="Application.EArka" />
-        <item itemvalue="Application.Kalkulatori" />
-        <item itemvalue="Application.Percjellja" />
-        <item itemvalue="Application.SyprinaERrethit" />
-        <item itemvalue="Application.SyprinaEDrejtkendeshit" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +134,10 @@
       <workItem from="1668788003504" duration="5527000" />
       <workItem from="1669054350990" duration="153000" />
       <workItem from="1669306746521" duration="4772000" />
-      <workItem from="1669391952920" duration="4676000" />
+      <workItem from="1669391952920" duration="4819000" />
+      <workItem from="1669830178339" duration="53000" />
+      <workItem from="1669830375982" duration="26000" />
+      <workItem from="1669997279115" duration="5427000" />
     </task>
     <task id="LOCAL-00001" summary="added files">
       <created>1668788088750</created>
@@ -156,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669312394054</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added files">
+      <created>1669398802352</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669398802352</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
