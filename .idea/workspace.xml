@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e58db3b-63c2-47e4-a04f-eaa6c9ba4164" name="Changes" comment="Operators">
-      <change afterPath="$PROJECT_DIR$/src/decision_selection/CheckIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decision_selection/FlipCoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decision_selection/TernaryOperator.java" afterDir="false" />
+    <list default="true" id="7e58db3b-63c2-47e4-a04f-eaa6c9ba4164" name="Changes" comment="if-else">
+      <change afterPath="$PROJECT_DIR$/src/decision_selection/comparasion/CharacterComparasion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decision_selection/comparasion/FloatingPointComparision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decision_selection/comparasion/StringComparasion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decision_selection/switch_examples/Prognoza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decision_selection/switch_examples/SwitchBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decision_selection/switch_examples/SwitchCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decision_selection/switch_examples/SwitchMeString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +46,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FlipCoin">
-    <configuration name="FlipCoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decision_selection.FlipCoin" />
+  <component name="RunManager" selected="Application.Prognoza">
+    <configuration name="Prognoza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decision_selection.switch_examples.Prognoza" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="decision_selection.*" />
+          <option name="PATTERN" value="decision_selection.switch_examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decision_selection.IfElseStatement" />
+    <configuration name="StringComparasion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decision_selection.comparasion.StringComparasion" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="decision_selection.*" />
+          <option name="PATTERN" value="decision_selection.comparasion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decision_selection.IfStatement" />
+    <configuration name="SwitchBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decision_selection.switch_examples.SwitchBasics" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="decision_selection.*" />
+          <option name="PATTERN" value="decision_selection.switch_examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decision_selection.NestedIfElse" />
+    <configuration name="SwitchCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decision_selection.switch_examples.SwitchCalculator" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="decision_selection.*" />
+          <option name="PATTERN" value="decision_selection.switch_examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TernaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decision_selection.TernaryOperator" />
+    <configuration name="SwitchMeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decision_selection.switch_examples.SwitchMeString" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="decision_selection.*" />
+          <option name="PATTERN" value="decision_selection.switch_examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FlipCoin" />
-        <item itemvalue="Application.TernaryOperator" />
-        <item itemvalue="Application.NestedIfElse" />
-        <item itemvalue="Application.IfElseStatement" />
-        <item itemvalue="Application.IfStatement" />
+        <item itemvalue="Application.Prognoza" />
+        <item itemvalue="Application.SwitchCalculator" />
+        <item itemvalue="Application.SwitchMeString" />
+        <item itemvalue="Application.SwitchBasics" />
+        <item itemvalue="Application.StringComparasion" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +146,9 @@
       <workItem from="1670436930138" duration="183000" />
       <workItem from="1670440218117" duration="111000" />
       <workItem from="1670609200256" duration="4234000" />
-      <workItem from="1670868971313" duration="2722000" />
+      <workItem from="1670868971313" duration="2964000" />
+      <workItem from="1671034346682" duration="21000" />
+      <workItem from="1671214373243" duration="5318000" />
     </task>
     <task id="LOCAL-00001" summary="added files">
       <created>1668788088750</created>
@@ -193,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670614412225</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="if-else">
+      <created>1670874663710</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670874663710</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +228,7 @@
     <MESSAGE value="Added files" />
     <MESSAGE value="converts" />
     <MESSAGE value="Operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Operators" />
+    <MESSAGE value="if-else" />
+    <option name="LAST_COMMIT_MESSAGE" value="if-else" />
   </component>
 </project>
