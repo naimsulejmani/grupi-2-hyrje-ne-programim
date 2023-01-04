@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e58db3b-63c2-47e4-a04f-eaa6c9ba4164" name="Changes" comment="String methods">
-      <change afterPath="$PROJECT_DIR$/src/decision_selection/string_examples/ushtrime/Detyra2A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decision_selection/string_examples/ushtrime/Detyra2B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decision_selection/string_examples/ushtrime/Detyra2C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decision_selection/string_examples/ushtrime/Detyra2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decision_selection/string_examples/ushtrime/Detyra3A.java" afterDir="false" />
+    <list default="true" id="7e58db3b-63c2-47e4-a04f-eaa6c9ba4164" name="Changes" comment="Detyra ushtrime">
+      <change afterPath="$PROJECT_DIR$/src/iterations/for_loop/BadForExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterations/for_loop/Detyra1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterations/for_loop/Detyra2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterations/for_loop/FactorielExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterations/for_loop/NestedFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterations/for_loop/PrimeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterations/for_loop/ShumaENumrave.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decision_selection/string_examples/Assignment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/decision_selection/string_examples/Assignment1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +46,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Detyra3A">
-    <configuration name="Assignment1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decision_selection.string_examples.Assignment1" />
+  <component name="RunManager" selected="Application.Detyra2">
+    <configuration name="BadForExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iterations.for_loop.BadForExamples" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="decision_selection.string_examples.*" />
+          <option name="PATTERN" value="iterations.for_loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Detyra2A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decision_selection.string_examples.ushtrime.Detyra2A" />
+    <configuration name="Detyra1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iterations.for_loop.Detyra1" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="decision_selection.string_examples.ushtrime.*" />
+          <option name="PATTERN" value="iterations.for_loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Detyra2B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decision_selection.string_examples.ushtrime.Detyra2B" />
+    <configuration name="Detyra2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iterations.for_loop.Detyra2" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="decision_selection.string_examples.ushtrime.*" />
+          <option name="PATTERN" value="iterations.for_loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Detyra2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decision_selection.string_examples.ushtrime.Detyra2D" />
+    <configuration name="NestedFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iterations.for_loop.NestedFor" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="decision_selection.string_examples.ushtrime.*" />
+          <option name="PATTERN" value="iterations.for_loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Detyra3A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decision_selection.string_examples.ushtrime.Detyra3A" />
+    <configuration name="ShumaENumrave" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iterations.for_loop.ShumaENumrave" />
       <module name="Gr2-HyrjeNeProgramim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="decision_selection.string_examples.ushtrime.*" />
+          <option name="PATTERN" value="iterations.for_loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Detyra3A" />
-        <item itemvalue="Application.Detyra2D" />
-        <item itemvalue="Application.Detyra2B" />
-        <item itemvalue="Application.Detyra2A" />
-        <item itemvalue="Application.Assignment1" />
+        <item itemvalue="Application.Detyra2" />
+        <item itemvalue="Application.Detyra1" />
+        <item itemvalue="Application.NestedFor" />
+        <item itemvalue="Application.BadForExamples" />
+        <item itemvalue="Application.ShumaENumrave" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +150,8 @@
       <workItem from="1671034346682" duration="21000" />
       <workItem from="1671214373243" duration="5318000" />
       <workItem from="1671473456797" duration="5978000" />
-      <workItem from="1672416673073" duration="5830000" />
+      <workItem from="1672416673073" duration="5853000" />
+      <workItem from="1672849446707" duration="5224000" />
     </task>
     <task id="LOCAL-00001" summary="added files">
       <created>1668788088750</created>
@@ -221,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671479341472</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Detyra ushtrime">
+      <created>1672422634004</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1672422634004</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +255,8 @@
     <MESSAGE value="if-else" />
     <MESSAGE value="swithc" />
     <MESSAGE value="String methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="String methods" />
+    <MESSAGE value="Detyra ushtrime" />
+    <option name="LAST_COMMIT_MESSAGE" value="Detyra ushtrime" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -255,6 +265,11 @@
           <url>file://$PROJECT_DIR$/src/decision_selection/string_examples/BasicExample.java</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/iterations/for_loop/FactorielExample.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
